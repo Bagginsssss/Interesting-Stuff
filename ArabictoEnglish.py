@@ -35,11 +35,11 @@ def mylittleproject():
     OutputVar = tkinter.StringVar()
     TextBox = tkinter.Entry(Screen, textvariable=OutputVar).grid(row=2, column=3)
 
-    tkinter.Label(Screen, text="I love you Dana").grid(row=8, column=2)
-
     # Button for calling function
     B = tkinter.Button(Screen, text="Translate", command=Translate, relief=tkinter.GROOVE).grid(row=3, column=1, columnspan=3)
 
     tkinter.mainloop()
+    
+mylittleproject()
 
 
