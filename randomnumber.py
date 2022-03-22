@@ -21,6 +21,7 @@ while user != the_number:
     if user == the_number:
         print("You guessed it!!, the number is", the_number, "and it only" \
               " took you", count, "tries")
+ #Hopefully works better now
 
 
 
