@@ -1,2 +1,2 @@
-# Interesting-Stuff
+# Main Python
 Just some interesting stuff
